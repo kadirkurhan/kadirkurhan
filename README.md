@@ -5,10 +5,6 @@
 
 ### <div align="center">I'm Kadir, a full-time developer 👨‍💻 working remotely since 2020 🚀</div>  
   
-
-- 🔭 I’m currently working on DexGame  
-  
-
 - 🌱 I’m currently learning Cloud Technologies  
   
 
