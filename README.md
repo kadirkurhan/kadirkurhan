@@ -3,11 +3,7 @@
 - 🌱 I’m currently learning Cloud Technologies  
   
 
-- ❓ Ask me about anything related to .NET and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ❓ Ask me about anything related to .NET and related technologies    
 
 <br/>  
 
