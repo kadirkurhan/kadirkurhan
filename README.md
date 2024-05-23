@@ -1,8 +1,7 @@
-### <div align="center">I'm Kadir, a full-time developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Kadir, a .NET developer 🚀</div>  
   
 - 🌱 I’m currently learning Cloud Technologies  
   
-
 - ❓ Ask me about anything related to .NET and related technologies    
 
 <br/>  
